@@ -1,0 +1,45 @@
+.flipkart-navbar {
+    background-color: #00b8e2;
+    color: #FFFFFF;
+}
+
+.flipkart-navbar-input {
+    margin-left: 15px;
+    height: 40px;
+    padding: 11px 20px;
+    border-radius: 0px 0 0 0;
+    border: 0 none;
+    outline: 0 none;
+    font-size: 15px;
+}
+
+.flipkart-navbar-button {
+    margin-left: 15px;
+    border: 2px solid #fff;
+    border-radius: 0 2px 2px 0;
+    padding: 10px 10px;
+    height: 43px;
+    width: 120px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.flipkart-navbar-button:hover {
+    background-color: #fff;
+    margin-left: 15px;
+    border: 2px solid #fff;
+    border-radius: 0 2px 2px 0;
+    padding: 10px 10px;
+    height: 43px;
+    width: 120px;
+    cursor: pointer;
+    color: #878282;
+}
+
+.mainBody{
+    margin-top: 30px;
+}
+
+.row{
+    margin-left: 30px;
+}
