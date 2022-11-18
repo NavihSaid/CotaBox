@@ -29,7 +29,7 @@
     "vue": "^2.6.10",
     "vue-loader": "^15.7.0",
     "vue-template-compiler": "^2.6.10",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   },
   "scripts": {
     "dev": "nodemon src/index.js",
